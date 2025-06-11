@@ -23,9 +23,7 @@ Screenshots folder includes:
 - NGINX Installation
 - Website running on browser
 
- 📍 Live Testing
-Open your browser and go to:  
-`http://<your-public-ip>`
+
 
 ## 👨‍💻 Author
 **Amit Bichitkar**  
